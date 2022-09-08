@@ -19,7 +19,7 @@
     "drag-drop": "^4.2.0",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0-0",
-    "jszip": "^3.1.5",
+    "jszip": "^3.7.0",
     "lodash": "^4.17.11",
     "moment": "^2.22.2",
     "parse-torrent": "^6.1.2",
