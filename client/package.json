@@ -10,9 +10,9 @@
   "devDependencies": {
     "@babel/polyfill": "^7.0.0",
     "@fullhuman/postcss-purgecss": "^1.1.0",
-    "@vue/cli-plugin-babel": "^3.1.1",
+    "@vue/cli-plugin-babel": "^3.12.1",
     "@vue/cli-plugin-eslint": "^3.1.5",
-    "@vue/cli-service": "^3.1.4",
+    "@vue/cli-service": "^5.0.8",
     "autoprefixer": "^9.3.1",
     "babel-eslint": "^10.0.1",
     "create-torrent": "^3.33.0",
